@@ -1,0 +1,22 @@
+body{
+
+    background-color: lightblue;
+
+}
+
+#score{
+
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 1200px;
+
+}
+
+#time{
+
+    font-size: 30px;
+    font-weight: bold;
+    float:right;
+    margin-right: 50px;
+
+}
